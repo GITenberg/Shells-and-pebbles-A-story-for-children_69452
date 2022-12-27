@@ -1,0 +1,31 @@
+_repo: Shells-and-pebbles-A-story-for-children_69452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-11-30'
+identifiers:
+  gutenberg: '69452'
+language: en
+pgterms:marc905: 20220109171140listed
+pgterms:marc906: '1852'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Society for Promoting Christian Knowledge,1852.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Shells and pebbles: A story for children'
+url: http://www.gutenberg.org/ebooks/69452
